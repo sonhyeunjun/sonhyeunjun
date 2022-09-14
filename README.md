@@ -1,6 +1,6 @@
-<h1 align="center">Son</h1>
+<h1 align="center">손현준</h1>
 
-<h4 align="center">Techs that I've used at least once</h4>
+<h4 align="center">열심히 해보자</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
